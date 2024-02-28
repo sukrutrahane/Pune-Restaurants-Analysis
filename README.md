@@ -17,6 +17,6 @@ Install the following libraries:
 - seaborn
 - matplotlib
 
-!(Screenshot (140).png)
-!(Screenshot (141).png)
-!(Screenshot (142).png)
+!(/Screenshot (140).png)
+!(/Screenshot (141).png)
+!(/Screenshot (142).png)
