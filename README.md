@@ -16,3 +16,7 @@ Install the following libraries:
 - pandas
 - seaborn
 - matplotlib
+
+!(Screenshot (140).png)
+!(Screenshot (141).png)
+!(Screenshot (142).png)
